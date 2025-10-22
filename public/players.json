@@ -11,7 +11,7 @@
     "totalAssists": 360,
     "ballonDOrWins": 8,
     "internationalTitles": ["FIFA World Cup 2022", "Copa América 2021"],
-    "profileImage": "/src/assets/images/Lionel-Messi.jpg"
+    "profileImage": "/images/Lionel-Messi.jpg"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "totalAssists": 240,
     "ballonDOrWins": 5,
     "internationalTitles": ["UEFA Euro 2016", "Nations League 2019"],
-    "profileImage": "/src/assets/images/Cristiano_Ronaldo.jpg"
+    "profileImage": "/images/Cristiano_Ronaldo.jpg"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "totalAssists": 280,
     "ballonDOrWins": 0,
     "internationalTitles": ["Olympic Gold 2016", "Copa América 2019"],
-    "profileImage": "/src/assets/images/Neymar-jr.jpg"
+    "profileImage": "/images/Neymar-jr.jpg"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "totalAssists": 120,
     "ballonDOrWins": 1,
     "internationalTitles": ["FIFA World Cup 2018", "Nations League 2021"],
-    "profileImage": "/src/assets/images/kylian-Mbappe.jpg"
+    "profileImage": "/images/kylian-Mbappe.jpg"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "totalAssists": 45,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Erling-Haaland.jpg"
+    "profileImage": "/images/Erling-Haaland.jpg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "totalAssists": 310,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Kevin De Bruyne.jpg"
+    "profileImage": "/images/Kevin De Bruyne.jpg"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
     "totalAssists": 110,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Robert Lewandowski.jpg"
+    "profileImage": "/images/Robert Lewandowski.jpg"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
     "totalAssists": 190,
     "ballonDOrWins": 1,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Luka Modrić.jpg"
+    "profileImage": "/images/Luka Modrić.jpg"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     "totalAssists": 160,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Mohamed-Salah.jpg"
+    "profileImage": "/images/Mohamed-Salah.jpg"
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
     "totalAssists": 25,
     "ballonDOrWins": 0,
     "internationalTitles": ["Champions League 2019"],
-    "profileImage": "/src/assets/images/Virgil van Dijk.jpg"
+    "profileImage": "/images/Virgil van Dijk.jpg"
   },
   {
     "id": 11,
@@ -151,7 +151,7 @@
     "totalAssists": 170,
     "ballonDOrWins": 1,
     "internationalTitles": ["FIFA World Cup 1998", "Euro 2000"],
-    "profileImage": "/src/assets/images/Zinedine Zidane.jpg"
+    "profileImage": "/images/Zinedine Zidane.jpg"
   },
   {
     "id": 12,
@@ -165,7 +165,7 @@
     "totalAssists": 200,
     "ballonDOrWins": 7,
     "internationalTitles": ["FIFA World Cup 1958", "1962", "1970"],
-    "profileImage": "/src/assets/images/PELE.jpg"
+    "profileImage": "/images/PELE.jpg"
   },
   {
     "id": 13,
@@ -179,7 +179,7 @@
     "totalAssists": 210,
     "ballonDOrWins": 1,
     "internationalTitles": ["FIFA World Cup 1986"],
-    "profileImage": "/src/assets/images/Diego Maradona.jpg"
+    "profileImage": "/images/Diego Maradona.jpg"
   },
   {
     "id": 14,
@@ -193,7 +193,7 @@
     "totalAssists": 230,
     "ballonDOrWins": 1,
     "internationalTitles": ["FIFA World Cup 2002", "Copa América 1999"],
-    "profileImage": "/src/assets/images/Ronaldinho.jpg"
+    "profileImage": "/images/Ronaldinho.jpg"
   },
   {
     "id": 15,
@@ -207,7 +207,7 @@
     "totalAssists": 220,
     "ballonDOrWins": 0,
     "internationalTitles": ["FIFA World Cup 2010", "Euro 2008", "Euro 2012"],
-    "profileImage": "/src/assets/images/Andres-Iniesta.jpg"
+    "profileImage": "/images/Andres-Iniesta.jpg"
   },
   {
     "id": 16,
@@ -221,7 +221,7 @@
     "totalAssists": 250,
     "ballonDOrWins": 0,
     "internationalTitles": ["FIFA World Cup 2010", "Euro 2008", "Euro 2012"],
-    "profileImage": "/src/assets/images/Xavi Hernández.jpg"
+    "profileImage": "/images/Xavi Hernández.jpg"
   },
   {
     "id": 17,
@@ -235,7 +235,7 @@
     "totalAssists": 260,
     "ballonDOrWins": 0,
     "internationalTitles": ["UEFA Champions League 1999"],
-    "profileImage": "/src/assets/images/David Beckham.jpg"
+    "profileImage": "/images/David Beckham.jpg"
   },
   {
     "id": 18,
@@ -249,7 +249,7 @@
     "totalAssists": 180,
     "ballonDOrWins": 0,
     "internationalTitles": ["FIFA World Cup 1998", "Euro 2000"],
-    "profileImage": "/src/assets/images/Thierry Henry.jpg"
+    "profileImage": "/images/Thierry Henry.jpg"
   },
   {
     "id": 19,
@@ -263,7 +263,7 @@
     "totalAssists": 35,
     "ballonDOrWins": 0,
     "internationalTitles": ["Champions League (5x)"],
-    "profileImage": "/src/assets/images/Paolo Maldini.jpg"
+    "profileImage": "/images/Paolo Maldini.jpg"
   },
   {
     "id": 20,
@@ -277,7 +277,7 @@
     "totalAssists": 50,
     "ballonDOrWins": 0,
     "internationalTitles": ["FIFA World Cup 2010", "Euro 2008", "Euro 2012"],
-    "profileImage": "/src/assets/images/Sergio Ramos.jpg"
+    "profileImage": "/images/Sergio Ramos.jpg"
   },
   {
     "id": 21,
@@ -291,7 +291,7 @@
     "totalAssists": 30,
     "ballonDOrWins": 0,
     "internationalTitles": ["UEFA Nations League 2023"],
-    "profileImage": "/src/assets/images/Lamine Yamal.jpeg"
+    "profileImage": "/images/Lamine Yamal.jpeg"
   },
   {
     "id": 22,
@@ -305,7 +305,7 @@
     "totalAssists": 55,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Bellingam.jpg"
+    "profileImage": "/images/Bellingam.jpg"
   },
   {
     "id": 23,
@@ -319,7 +319,7 @@
     "totalAssists": 50,
     "ballonDOrWins": 0,
     "internationalTitles": ["UEFA Nations League 2023"],
-    "profileImage": "/src/assets/images/Pedri González.jpg"
+    "profileImage": "/images/Pedri González.jpg"
   },
   {
     "id": 24,
@@ -333,7 +333,7 @@
     "totalAssists": 35,
     "ballonDOrWins": 0,
     "internationalTitles": ["UEFA Nations League 2023"],
-    "profileImage": "/src/assets/images/Gavi Páez.jpg"
+    "profileImage": "/images/Gavi Páez.jpg"
   },
   {
     "id": 25,
@@ -347,7 +347,7 @@
     "totalAssists": 110,
     "ballonDOrWins": 0,
     "internationalTitles": ["Copa América 2021", "Champions League 2022"],
-    "profileImage": "/src/assets/images/Vinicius-Junior.jpg"
+    "profileImage": "/images/Vinicius-Junior.jpg"
   },
   {
     "id": 26,
@@ -361,7 +361,7 @@
     "totalAssists": 70,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Bukayo Saka.jpg"
+    "profileImage": "/images/Bukayo Saka.jpg"
   },
   {
     "id": 27,
@@ -375,7 +375,7 @@
     "totalAssists": 60,
     "ballonDOrWins": 0,
     "internationalTitles": ["Serie A 2023"],
-    "profileImage": "/src/assets/images/Khvicha Kvaratskhelia.jpeg"
+    "profileImage": "/images/Khvicha Kvaratskhelia.jpeg"
   },
   {
     "id": 28,
@@ -389,7 +389,7 @@
     "totalAssists": 25,
     "ballonDOrWins": 0,
     "internationalTitles": ["FA Cup 2024"],
-    "profileImage": "/src/assets/images/Alejandro Garnacho.jpg"
+    "profileImage": "/images/Alejandro Garnacho.jpg"
   },
   {
     "id": 29,
@@ -403,7 +403,7 @@
     "totalAssists": 20,
     "ballonDOrWins": 0,
     "internationalTitles": [],
-    "profileImage": "/src/assets/images/Rasmus Højlund.jpg"
+    "profileImage": "/images/Rasmus Højlund.jpg"
   },
   {
     "id": 30,
@@ -417,6 +417,6 @@
     "totalAssists": 80,
     "ballonDOrWins": 0,
     "internationalTitles": ["Bundesliga 2024"],
-    "profileImage": "/src/assets/images/Florian Wirtz.jpg"
+    "profileImage": "/images/Florian Wirtz.jpg"
   }
 ]
