@@ -1,8 +1,7 @@
-import React, { useEffect, useState } from 'react'
+import React , { useState } from 'react'
 import NavBar from './components/NavBar'
 import { Outlet } from 'react-router-dom'
 import PlayerContextProvider from './playerContextProvider/PlayerContextProvider'
-import { themeChange } from 'theme-change'
 
 const App = () => {
     const [searchedPlayer , setSearchedPlayer] = useState("")
