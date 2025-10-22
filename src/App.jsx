@@ -6,11 +6,6 @@ import { themeChange } from 'theme-change'
 
 const App = () => {
     const [searchedPlayer , setSearchedPlayer] = useState("")
-
-    useEffect(()=>{
-      themeChange(false)
-    },[])
-
     // console.log(searchedPlayer)
   return (
     <div>
